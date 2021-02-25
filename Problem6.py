@@ -12,3 +12,6 @@ def culc_square_of_sum(list):
 
 if __name__ == "__main__":
     main()
+
+#出力結果: 25164150
+#実行時間: 0.103s

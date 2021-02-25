@@ -17,3 +17,6 @@ def make_fib_list(list, a, b, max):
 
 if __name__ == "__main__":
     main()
+
+#出力結果: 4613732
+#実行時間: 0.100s

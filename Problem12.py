@@ -23,3 +23,6 @@ def count_divisor(n):
 
 if __name__ == "__main__":
     main()
+
+#出力結果: 76576500
+#実行時間: 3.210s

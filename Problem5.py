@@ -13,3 +13,6 @@ def lcm(*numbers):
 
 if __name__ == "__main__":
     main()
+
+#出力結果: 232792560
+#実行時間: 0.101s

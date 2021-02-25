@@ -14,3 +14,6 @@ def max_prime_number(num):
 
 if __name__ == '__main__':
     main()
+
+#出力結果: 6857
+#実行時間: 0.094s

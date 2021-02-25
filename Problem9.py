@@ -14,3 +14,6 @@ def culc_Pythagorean(num):
 
 if __name__ == "__main__":
     main()
+
+#出力結果: 200 375 425   31875000
+#実行時間: 0.180s

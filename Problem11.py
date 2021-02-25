@@ -96,3 +96,6 @@ def culc_right_down(numbers, i, j):
 
 if __name__ == "__main__":
     main()
+
+#出力結果: 70600674
+#実行時間: 0.282s

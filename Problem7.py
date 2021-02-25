@@ -19,3 +19,6 @@ def judge_prime(number):
 
 if __name__ == "__main__":
     main()
+
+#出力結果: 104743
+#実行時間: 0.277s

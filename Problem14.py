@@ -22,3 +22,6 @@ def count_chain(n):
 
 if __name__ == "__main__":
     main()
+
+#出力結果: 837799 525
+#実行時間: 15.303s

@@ -19,3 +19,6 @@ def culc_product(list):
 
 if __name__ == "__main__":
     main()
+
+#出力結果: 23514624000
+#実行時間: 0.101s

@@ -15,3 +15,6 @@ def check_palindromic(num):
 
 if __name__ == "__main__":
     main()
+
+#出力結果: 906609
+#実行時間: 0.928s
